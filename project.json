@@ -1,0 +1,7 @@
+{
+  "name": "ipad-dev",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::550731307778:role/ipad-dev",
+  "environment": {}
+}

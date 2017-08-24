@@ -1,0 +1,5 @@
+{
+  "name": "stop-server",
+  "description": "Stops an EC2 instance specified in params",
+  "role": "arn:aws:iam::550731307778:role/ipad-dev-2"
+}
